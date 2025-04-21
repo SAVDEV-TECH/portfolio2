@@ -1,5 +1,5 @@
 import React from 'react'
-// import Intro from './intro'
+ 
 import Introduc from '../Introduc/page'
 import Details from  '@/app/component/Details/page'
 function home() {

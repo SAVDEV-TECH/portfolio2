@@ -1,4 +1,4 @@
-import Image from "next/image";
+ 
 import Homi from "./component/Home/page";
 
 export default function Home() {

@@ -13,12 +13,10 @@ function details() {
  
       <section id='home' className='  flex flex-col gap-6'>
       <h2 className=' sticky  z-50 top-0  md:hidden    font-bold text-white text-[18px]'>About</h2>
-        <p className='line-'>I’m a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only
+        <p className=''>Im a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only
              look great but are meticulously built for performance and usability.
-             </p>I take pride in writing clean, scalable code and building interfaces that feel intuitive and engaging. Whether I'm translating a Figma design into a responsive layout or optimizing performance for better user experience, I bring both precision and creativity to every project. My passion lies in bridging the gap between designers and engineers, ensuring that every product I contribute to is beautifully designed and technically sound.
-             <p> 
-
-</p>
+             </p>                                                            
+             <p> I take pride in writing clean, scalable code and building interfaces that feel intuitive and engaging. Whether Im translating a Figma design into a responsive layout or optimizing performance for better user experience, I bring both precision and creativity to every project. My passion lies in bridging the gap between designers and engineers, ensuring that every product I contribute to is beautifully designed and technically sound.</p>  
       </section>
       <section id='experience' className='mt-6 pt-[60px]'>
       <h2 className=' sticky z-50 top-0  md:hidden  line-clamp-2   font-bold text-white text-[18px]'>experience</h2>

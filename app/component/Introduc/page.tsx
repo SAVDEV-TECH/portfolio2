@@ -11,14 +11,14 @@ import { useState,useEffect } from 'react';
 
  
 
-function introduc() {
+function Introduc() {
     const [activesection,setactivesection]=useState("home")
 
     useEffect(()=>{
      const scrolpage=()=>{
         const sections=document.querySelectorAll('section')
         let currentsection = "home";
-        sections.forEach((section,i)=>{
+        sections.forEach((section)=>{
           
             const sectionTop= section.offsetTop - window.innerHeight / 2;
             console.log(`Section: ${section.id}, Section Top: ${sectionTop}, ScrollY: ${window.scrollY}`);
@@ -73,4 +73,4 @@ function introduc() {
   )
 }
 
-export default introduc
+export default Introduc
