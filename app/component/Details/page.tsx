@@ -41,11 +41,9 @@ Gained experience working independently and managing time effectively within a f
           <Image alt='image' className='rounded-[10px]' src={creativehub} width={200} height={200}></Image>
           <div>
             <h2 className='text-white  font-semibold'>Build Creativehub</h2>
-            <p className='text-wrap'>TypeScript
-          HTML & SCSS
-          ReactNext.js Senior Frontend Engineer, Accessibility · Klaviyo
-ct. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.
-              JavaScript</p>
+            <p className='text-wrap'>
+            The Creative JavaScriptub project was built using HTML, CSS, and JavaScript to deliver a clean, interactive, and visually appealing user interface. It features smooth animations, responsive layouts, and dynamic interactions powered by vanilla JavaScript. This project showcases the power of core web technologies in creating engaging user experiences without the use of external frameworks.
+      </p>
          <ul className='flex mt-3 gap-4 items-center '>
             <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>HTML</span></li>
             <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>CSS</span></li>
@@ -64,11 +62,9 @@ ct. Work closely with cross-functional teams, including developers, designers, a
           <Image alt='image' className='rounded-[10px]' src={arccreative} width={200} height={200}></Image>
           <div>
             <h2 className='text-white  font-semibold'>Build Arcreatives</h2>
-            <p className='text-wrap'>TypeScript
-          HTML & SCSS
-          ReactNext.js Senior Frontend Engineer, Accessibility · Klaviyo
-ct. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.
-              JavaScript</p>
+            <p className='text-wrap'>
+            Arcreative is a dynamic and modern web application I built using React.js. The platform showcases a seamless user experience with interactive components and efficient state management. React's component-based architecture made it easy to scale and maintain the application while ensuring fast performance and responsiveness across devices.
+         </p>
  <ul className='flex gap-4 mt-3 items-center '>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>REACT JS</span></li>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>TAILWIND CSS</span></li>
@@ -87,11 +83,7 @@ ct. Work closely with cross-functional teams, including developers, designers, a
           <Image alt='image' className='rounded-[10px]' src={sign} width={200} height={200}></Image>
           <div>
             <h2 className='text-white  font-semibold'>Build arccreatives sign in page</h2>
-            <p className='text-wrap'>TypeScript
-          HTML & SCSS
-          ReactNext.js Senior Frontend Engineer, Accessibility · Klaviyo
-          ct. Work closely with cross-functional teams, including developers, designers, and product managers, to implement and advocate for best practices in web accessibility.
-              JavaScript</p>
+            <p className='text-wrap'> The Sign Up page on Arcreative was built using React.js, designed to provide a smooth and responsive user experience. Leveraging React’s component-based structure, I created reusable form components with real-time validation and dynamic feedback. The page ensures efficient handling of user input and state management, making the sign-up process fast, intuitive, and user-friendly.</p>
  <ul className='flex gap-4 mt-3 items-center '>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>REACT JS</span></li>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'> TAILWIND CSS</span></li>
