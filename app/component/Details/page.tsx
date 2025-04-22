@@ -63,7 +63,7 @@ Gained experience working independently and managing time effectively within a f
           <div>
             <h2 className='text-white  font-semibold'>Build Arcreatives</h2>
             <p className='text-wrap'>
-            Arcreative is a dynamic and modern web application I built using React.js. The platform showcases a seamless user experience with interactive components and efficient state management. React's component-based architecture made it easy to scale and maintain the application while ensuring fast performance and responsiveness across devices.
+            Arcreative is a dynamic and modern web application I built using React.js. The platform showcases a seamless user experience with interactive components and efficient state management. React component-based architecture made it easy to scale and maintain the application while ensuring fast performance and responsiveness across devices.
          </p>
  <ul className='flex gap-4 mt-3 items-center '>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>REACT JS</span></li>
