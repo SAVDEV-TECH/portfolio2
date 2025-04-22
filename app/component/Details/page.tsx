@@ -68,7 +68,7 @@ Gained experience working independently and managing time effectively within a f
  <ul className='flex gap-4 mt-3 items-center '>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>REACT JS</span></li>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>TAILWIND CSS</span></li>
-    <li><Link href='' className='px-4 py-1 font-bold ml-auto rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
+    <li><Link href='https://savdev-tech.github.io/Arccreative/' className='px-4 py-1 font-bold ml-auto rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
   </ul>
           </div>
           
@@ -79,7 +79,7 @@ Gained experience working independently and managing time effectively within a f
 
       <div>
         <div className="flex flex-col  md:flex-col lg:flex-row cursor-pointer px-4 py-4 rounded-lg hover:bg-[#20192eb4] transition-[500]   mt-6    gap-4 items-start   md:items-start  justify-center">
-          <Link href=''></Link>
+          <Link href='https://savdev-tech.github.io/Arccreative/#/SignIn'></Link>
           <Image alt='image' className='rounded-[10px]' src={sign} width={200} height={200}></Image>
           <div>
             <h2 className='text-white  font-semibold'>Build arccreatives sign in page</h2>
