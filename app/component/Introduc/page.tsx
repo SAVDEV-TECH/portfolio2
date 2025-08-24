@@ -36,7 +36,7 @@ function Introduc() {
     <div className='flex mb-10 md:mb-0  w-[90%] md:sticky md:top-[100px] gap-6 md:w-[50%] text-white flex-col'>
       <h1 className='text-[40px] font-bold'>Saviour Samuel</h1>
       <h2 className='text-[20px] font-[500]'>Front End developer</h2>
-      <a href="/Saviour_Samuel_CV_Expanded.docx" target='_blank' rel="noopener noreferrer" download className="inline-block w-max px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
+      <a href="/Web_Developer_CV.docx" target='_blank' rel="noopener noreferrer" download className="inline-block w-max px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700">
   Download My CV
 </a>
 

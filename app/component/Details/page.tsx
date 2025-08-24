@@ -3,6 +3,10 @@ import Image from "next/image"
 import creativehub from "/public/creativehub.png"
 import arccreative from "/public/arccreative.png"
 import sign from "/public/signpagepick.png"
+import mog from "/public/mogshop.png"
+import uniport from "/public/uniportmap.png"
+import imdb from "/public/imdbclone.png"
+
 import Link from 'next/link'
 
 
@@ -13,10 +17,9 @@ function details() {
  
       <section id='home' className='  flex flex-col gap-6'>
       <h2 className=' sticky  z-50 top-0  md:hidden    font-bold text-white text-[18px]'>About</h2>
-        <p className=''>Im a developer passionate about crafting accessible, pixel-perfect user interfaces that blend thoughtful design with robust engineering. My favorite work lies at the intersection of design and development, creating experiences that not only
-             look great but are meticulously built for performance and usability.
+        <p className=''> I’m a frontend developer passionate about building accessible, responsive, and engaging user interfaces. I love working at the intersection of design and development, turning Figma concepts into pixel-perfect, performance-driven experiences with React, Next.js, and Tailwind CSS.
              </p>                                                            
-             <p> I take pride in writing clean, scalable code and building interfaces that feel intuitive and engaging. Whether Im translating a Figma design into a responsive layout or optimizing performance for better user experience, I bring both precision and creativity to every project. My passion lies in bridging the gap between designers and engineers, ensuring that every product I contribute to is beautifully designed and technically sound.</p>  
+             <p>  I take pride in writing clean, scalable code and creating products that feel intuitive across all devices. From crafting multi-vendor e-commerce flows to developing a campus navigation app, I focus on usability, performance, and seamless API integration. My goal is to bridge the gap between design and engineering, making sure every product I build is both beautiful and technically sound.</p>  
       </section>
       <section id='experience' className='mt-6 pt-[60px]'>
       <h2 className=' sticky z-50 top-0  md:hidden  line-clamp-2   font-bold text-white text-[18px]'>experience</h2>
@@ -80,19 +83,48 @@ Gained experience working independently and managing time effectively within a f
       <div>
         <div className="flex flex-col  md:flex-col lg:flex-row cursor-pointer px-4 py-4 rounded-lg hover:bg-[#20192eb4] transition-[500]   mt-6    gap-4 items-start   md:items-start  justify-center">
           <Link href=' '></Link>
-          <Image alt='image' className='rounded-[10px]' src={sign} width={200} height={200}></Image>
+          <Image alt='image' className='rounded-[10px]' src={uniport} width={200} height={200}></Image>
           <div>
-            <h2 className='text-white  font-semibold'>Build arccreatives sign in page</h2>
-            <p className='text-wrap'> The Sign Up page on Arcreative was built using React.js, designed to provide a smooth and responsive user experience. Leveraging React’s component-based structure, I created reusable form components with real-time validation and dynamic feedback. The page ensures efficient handling of user input and state management, making the sign-up process fast, intuitive, and user-friendly.</p>
+            <h2 className='text-white  font-semibold'>Build uniport navigation app</h2>
+            <p className='text-wrap'>the navigation app was buitlt to help new student to locate their various department and faculty. it was built with HTML,CSS and JavaScript, also it is user friendly and responsive  </p>
  <ul className='flex gap-4 mt-3 items-center '>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>REACT JS</span></li>
     <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'> TAILWIND CSS</span></li>
-    <li><Link href='https://savdev-tech.github.io/Arccreative/#/SignIn' className='px-4 py-1   font-bold ml-auto  rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
+    <li><Link href='https://uniport-navigation-o86t.vercel.app/map.html ' className='px-4 py-1   font-bold ml-auto  rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
   </ul>
           </div>
           
         </div>
-         
+
+        {/* roll to decorate */}
+          <div className="flex flex-col  md:flex-col lg:flex-row cursor-pointer px-4 py-4 rounded-lg hover:bg-[#20192eb4] transition-[500]   mt-6    gap-4 items-start   md:items-start  justify-center">
+          <Link href=' '></Link>
+          <Image alt='image' className='rounded-[10px]' src={mog} width={200} height={200}></Image>
+          <div>
+            <h2 className='text-white  font-semibold'>Build Mog E-cormerce site</h2>
+            <p className='text-wrap'> The  mog  was built using Next.js, designed to provide a smooth and responsive user experience. Leveraging Next.js component-based structure, I created reusable form components with real-time validation and dynamic feedback. The page ensures efficient handling of user input and state management, making the   process fast, intuitive, and user-friendly.</p>
+ <ul className='flex gap-4 mt-3 items-center '>
+    <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>NEXT JS</span></li>
+    <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'> TAILWIND CSS</span></li>
+    <li><Link href='https://mog-shop-8o8r.vercel.app/ ' className='px-4 py-1   font-bold ml-auto  rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
+  </ul>
+          </div>
+          
+        </div>
+            <div className="flex flex-col  md:flex-col lg:flex-row cursor-pointer px-4 py-4 rounded-lg hover:bg-[#20192eb4] transition-[500]   mt-6    gap-4 items-start   md:items-start  justify-center">
+          <Link href=' '></Link>
+          <Image alt='image' className='rounded-[10px]' src={imdb} width={200} height={200}></Image>
+          <div>
+            <h2 className='text-white  font-semibold'>Build IMDB clone</h2>
+            <p className='text-wrap'> The  IMDBCLONE was built using Next.js, designed to provide a smooth and responsive user experience. Leveraging next.’s component-based structure, I created reusable form components with real-time validation and dynamic feedback. The page ensures efficient handling of user input and state management, making the       process fast, intuitive, and user-friendly.</p>
+ <ul className='flex gap-4 mt-3 items-center '>
+    <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'>NEXT JS</span></li>
+    <li><span className='px-2 py-1 bg-green-400 font-bold rounded-lg text-[10px] text-green-800'> TAILWIND CSS</span></li>
+    <li><Link href=' https://imdb-clone-cgw7.vercel.app/ ' className='px-4 py-1   font-bold ml-auto  rounded-lg text-[10px] text-green-400'>VIEW</Link></li>
+  </ul>
+          </div>
+          
+        </div>
       </div>
       </section>
     </div>
