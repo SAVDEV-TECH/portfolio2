@@ -2,7 +2,7 @@ import React from 'react'
 import Image from "next/image"
 import creativehub from "/public/creativehub.png"
 import arccreative from "/public/arccreative.png"
-import sign from "/public/signpagepick.png"
+ 
 import mog from "/public/mogshop.png"
 import uniport from "/public/uniportmap.png"
 import imdb from "/public/imdbclone.png"
